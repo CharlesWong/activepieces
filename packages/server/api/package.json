@@ -89,7 +89,7 @@
     "qs": "6.14.2",
     "samlify": "2.10.0",
     "semver": "7.6.0",
-    "simple-git": "3.21.0",
+    "simple-git": "3.32.3",
     "socket.io": "4.8.1",
     "sqlite3": "5.1.7",
     "stripe": "18.2.1",
